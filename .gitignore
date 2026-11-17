@@ -1,0 +1,6 @@
+warehouse.duckdb
+warehouse.duckdb.wal
+*.duckdb
+output/
+__pycache__/
+.venv/
